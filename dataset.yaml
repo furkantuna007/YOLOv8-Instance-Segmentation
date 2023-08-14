@@ -1,0 +1,12 @@
+train: /Users/macbookpro/Machine Learning Projects/YOLOv8InstanceSegmentation/train/images
+val: /Users/macbookpro/Machine Learning Projects/YOLOv8InstanceSegmentation/test/images
+
+nc: 3
+names: ['blackberry', 'pineapple', 'watermelon']
+
+roboflow:
+  workspace: furkan-tuna-vrcvi
+  project: yolov8-fruit-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/furkan-tuna-vrcvi/yolov8-fruit-detection/dataset/1
