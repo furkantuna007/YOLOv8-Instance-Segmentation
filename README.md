@@ -4,8 +4,10 @@ Aim of the project is to apply Instance Segmentation using new version of You On
     <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
 </a>
 <img width="603" alt="Screenshot 2023-08-17 at 12 24 52" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/0651edd3-8910-45f1-a875-efaffd437437">
+
 General score values of the model:
 <img width="1574" alt="Screenshot 2023-08-17 at 12 25 24" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/629f71b6-1ec3-4da6-a9d5-24a184755430">
+
 Couple of test images with labels:
 <img width="450" alt="Screenshot 2023-08-17 at 12 26 15" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/c963d512-88c3-40a2-966f-591d1659c906">
 <img width="911" alt="Screenshot 2023-08-17 at 12 26 30" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/d65d297a-3462-4c89-afd7-4c65dfa41fbc">
