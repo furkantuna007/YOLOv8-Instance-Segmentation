@@ -9,6 +9,7 @@ General score values of the model:
 <img width="1574" alt="Screenshot 2023-08-17 at 12 25 24" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/629f71b6-1ec3-4da6-a9d5-24a184755430">
 
 Couple of test images with labels:
+
 <img width="450" alt="Screenshot 2023-08-17 at 12 26 15" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/c963d512-88c3-40a2-966f-591d1659c906">
 <img width="911" alt="Screenshot 2023-08-17 at 12 26 30" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/d65d297a-3462-4c89-afd7-4c65dfa41fbc">
 <img width="466" alt="Screenshot 2023-08-17 at 12 27 05" src="https://github.com/furkantuna007/YOLOv8-Instance-Segmentation/assets/72814790/a2ac6c09-fdca-4ef6-8935-4c81987517b5">
